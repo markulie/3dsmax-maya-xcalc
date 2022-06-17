@@ -35,7 +35,7 @@ rollout rltxCalc "xCalc 0.1"
 	button btnDivide "/" pos:[100,160-17] width:25 height:25
 	button btnEquals "=" pos:[100,210-17] width:25 height:25
 	button btnClear "C" pos:[100,135-17] width:25 height:25
-	hyperLink author "info" address:"http://www.mark.am" color:(color 85 110 110) hovercolor:(color 255 255 255) visitedcolor:(color 85 110 110)  pos:[4,210-12] width:25 height:25 
+	hyperLink author "info" address:"https://github.com/markaelie" color:(color 85 110 110) hovercolor:(color 255 255 255) visitedcolor:(color 85 110 110)  pos:[4,210-12] width:25 height:25 
 	/**/
 	
 	/*---[Code]---*/
