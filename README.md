@@ -3,6 +3,8 @@ Simple Calculator for Autodesk 3ds Max and Autodesk Maya
 
 ## xCalc for 3ds Max
 
+<img width="125" height="248" src="https://github.com/markaelie/xCalc/blob/master/demo_xCalc_3dsMax.png?raw=true">
+
 ### To Use The Macro Version (markaelie-xCalc-v0.2.mcr)
 1. Go to Customize > Customize User Interface and select the desired Tab (Toolbars, Quad, Menu)
 2. Locate the category "markaelie"
@@ -14,6 +16,8 @@ Simple Calculator for Autodesk 3ds Max and Autodesk Maya
 1. Drag and Drop the script in a viewport
 
 ## xCalc for Maya
+
+<img width="125" height="248" src="https://github.com/markaelie/xCalc/blob/master/demo_xCalc_3dsMax.png?raw=true">
 
 ### To Use The Macro Version (markaelie-xCalc-v0.1.mel)
 1. Copy the script to "documents/maya/scripts" folder or just load it
