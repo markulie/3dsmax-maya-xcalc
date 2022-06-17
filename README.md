@@ -1,2 +1,5 @@
 # xCalc
-Simple Calculator for 3ds Max
+Simple Calculator for Autodesk 3ds Max and Autodesk Maya
+
+## 3ds Max
+
