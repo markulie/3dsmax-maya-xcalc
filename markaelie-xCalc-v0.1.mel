@@ -1,6 +1,6 @@
 /*
 xCalc
-Author: Markaelie
+Author: Markulie
 Created on: 18 December 2014
 Version: 0.1
 Description: Simple Calculator for Maya
@@ -149,4 +149,3 @@ window -widthHeight 150 153
 window -e -widthHeight 127 130 calculatorWindow;
 showWindow;
 }
-
