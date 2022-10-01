@@ -19,6 +19,6 @@ Simple Calculator for Autodesk 3ds Max and Autodesk Maya
 
 <img width="126" height="151" src="https://github.com/markulie/xCalc/blob/master/demo_xCalc_Maya.png?raw=true">
 
-### To Use The MEL Version (markaelie-xCalc-v0.1.mel)
+### To Use The MEL Version (markulie-xCalc-v0.1.mel)
 1. Copy the script to "documents/maya/scripts" folder or just load it
 2. Type in MEL command line "xcalc" without quotes.
