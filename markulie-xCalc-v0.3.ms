@@ -3,7 +3,7 @@
 -- Version: 0.3
 -- Author: Markulie
 -- Created on: February 23, 2015
--- Updated on: October 28, 2022   edddd
+-- Updated on: October 28, 2022
 
 try ( destroydialog rltxCalc ) catch()
 rollout rltxCalc "xCalc 0.3"
