@@ -8,7 +8,7 @@ Simple Calculator for Autodesk 3ds Max and Autodesk Maya
 </p>
 
 
-### To Use The MaxScript Version (markulie-xCalc-v0.1.ms)
+### To Use The MaxScript Version (markulie-xCalc-v0.3.ms)
 1. Drag and drop the script into a viewport
 
 ## For Maya
