@@ -1,7 +1,7 @@
 # xCalc
 Simple Calculator for Autodesk 3ds Max and Autodesk Maya
 
-## xCalc for 3ds Max
+### xCalc for 3ds Max
 
 <img width="125" height="248" src="https://github.com/markulie/xCalc/blob/master/demo_xCalc_3dsMax.png?raw=true">
 
@@ -13,7 +13,7 @@ Simple Calculator for Autodesk 3ds Max and Autodesk Maya
 5. Click the toolbar button to open the script.
 
 ### To Use The Standard Version (markulie-xCalc-v0.1.ms)
-1. Drag and Drop the script in a viewport
+1. Drag and drop the script into a viewport
 
 ## xCalc for Maya
 
