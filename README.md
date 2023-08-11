@@ -3,14 +3,19 @@ Simple Calculator for Autodesk 3ds Max and Autodesk Maya
 
 ## For 3ds Max
 
-<img width="125" height="248" src="https://github.com/markulie/xCalc/blob/master/demo_xCalc_3dsMax.png?raw=true">
+<p align="center">
+  <img width="125" height="248" src="https://github.com/markulie/xCalc/blob/master/demo_xCalc_3dsMax.png?raw=true">
+</p>
+
 
 ### To Use The MaxScript Version (markulie-xCalc-v0.1.ms)
 1. Drag and drop the script into a viewport
 
 ## For Maya
 
-<img width="126" height="151" src="https://github.com/markulie/xCalc/blob/master/demo_xCalc_Maya.png?raw=true">
+<p align="center">
+  <img width="126" height="151" src="https://github.com/markulie/xCalc/blob/master/demo_xCalc_Maya.png?raw=true">
+</p>
 
 ### To Use The MEL Version (markulie-xCalc-v0.1.mel)
 1. Copy the script to "documents/maya/scripts" folder or just load it
